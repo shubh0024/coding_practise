@@ -10,8 +10,8 @@ public class Fibanacci_series {
       for(int i=0; i<n; i++){
           System.out.println(a);
           int c=a+b;
-          a=b;
-          b=c;
+          a=b; //swapping the number with each other 
+          b=c; //swapping the number 
       }
 
     }
