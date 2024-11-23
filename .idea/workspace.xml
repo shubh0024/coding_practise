@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b088e2cd-49e4-4cd0-9636-d2aa569ef8c3" name="Changes" comment="min_cost_path">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employer dp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_structure/Array_problems/subs_two_arr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_structure/Array_problems/subs_two_arr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_structure/Linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_structure/Hasmap/Linkedlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/data_structure/hashmap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/data_structure/Hasmap/hashmap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/patterns/Alphabet_W.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/patterns/Alphabet_W.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/Gneric_tree/Binary_searchtree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/Gneric_tree/Binary_tree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/Gneric_tree/Size_sum_maxofBst.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dinesh_bariyani_lec/Binarytree.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dinesh_bariyani_lec/Bst_Validate.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dp_padhlo/Cimbstair_path_jumps.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dp_padhlo/Is_bst.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dp_padhlo/Knights_Tour.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dp_padhlo/Mincost_path_travel.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/com/data_structure/dp_padhlo/Tilt_of_Binarytree.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UVtoaR6ZutiB2c6pU9S0vhCiyV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/IdeaProjects/employer dp/src/com/data_structure/dinesh_bariyani_lec&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.18735632&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\employer dp\src\com\data_structure\dinesh_bariyani_lec" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GetcommonElem">
+    <configuration name="GetcommonElem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_structure.Array_problems.GetcommonElem" />
+      <module name="employer dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_structure.Array_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Simplify_path" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_structure.Stack_problems.Simplify_path" />
+      <module name="employer dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_structure.Stack_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_structure.Array_problems.Sorting" />
+      <module name="employer dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_structure.Array_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Valid_parethesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_structure.Stack_problems.Valid_parethesis" />
+      <module name="employer dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_structure.Stack_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baalanced_brackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.data_structure.Stack_problems.baalanced_brackets" />
+      <module name="employer dp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.data_structure.Stack_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetcommonElem" />
+        <item itemvalue="Application.Simplify_path" />
+        <item itemvalue="Application.Valid_parethesis" />
+        <item itemvalue="Application.baalanced_brackets" />
+        <item itemvalue="Application.Sorting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b088e2cd-49e4-4cd0-9636-d2aa569ef8c3" name="Changes" comment="" />
+      <created>1693036754640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693036754640</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1726987479781</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726987479781</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated">
+      <created>1727109408738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727109408738</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated">
+      <created>1727109505911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727109505911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated">
+      <created>1727109568124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727109568124</updated>
+    </task>
+    <task id="LOCAL-00005" summary="dp_updated">
+      <created>1727504181722</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727504181722</updated>
+    </task>
+    <task id="LOCAL-00006" summary="min_cost_path">
+      <created>1727766345806</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727766345807</updated>
+    </task>
+    <task id="LOCAL-00007" summary="min_cost_path">
+      <created>1728451546208</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728451546208</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="updated" />
+    <MESSAGE value="dp_updated" />
+    <MESSAGE value="min_cost_path" />
+    <option name="LAST_COMMIT_MESSAGE" value="min_cost_path" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/exception_all.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/data_structure/dinesh_bariyani_lec/Bst_Validate.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/data_structure/dinesh_bariyani_lec/Bst_Validate.java</url>
+          <line>28</line>
+          <properties class="com.data_structure.dinesh_bariyani_lec.Bst_Validate" method="insert">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/employer_dp$Z_print.ic" NAME="Z_print Coverage Results" MODIFIED="1707840780512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.patterns.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/employer_dp$fibonacci_series_recursion.ic" NAME="fibonacci_series_recursion Coverage Results" MODIFIED="1727070980143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.problems.*</FILTER>
+    </SUITE>
+  </component>
+</project>

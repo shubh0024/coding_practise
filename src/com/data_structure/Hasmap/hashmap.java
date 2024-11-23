@@ -1,4 +1,4 @@
-package com.data_structure;
+package com.data_structure.Hasmap;
 import java.util.*;
 
 public class hashmap {
@@ -27,9 +27,16 @@ public class hashmap {
   }else{
       System.out.println(false);
   }
-        System.out.println(map.get("sita"));
-        System.out.println(map.remove("sita"));
-        System.out.println(map);
+//        System.out.println(map.get("sita"));
+//        System.out.println(map.remove("sita"));
+//        System.out.println(map);
 
+        Set<String> keys=map.keySet();
+        System.out.println(keys);
+
+        for(String key: map.keySet()){
+            Integer val=map.get(key);
+            System.out.println(key+ " " + val);
+        }
     }
 }

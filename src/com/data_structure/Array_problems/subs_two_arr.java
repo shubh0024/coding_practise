@@ -25,7 +25,7 @@ public class subs_two_arr {
         int k = diff.length - 1;
 
 
-        //store karwyae using the condion happens like agr  arr ke digit ke carry ko add krke or substract krke
+        //store karwyae using the condition happens like agr  arr ke digit ke carry ko add krke or substract krke
         //3 condtion  lagayge 
         while (k >= 0) {
             int digits = 0; //store krayge result ko
